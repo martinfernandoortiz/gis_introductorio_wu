@@ -1,0 +1,18 @@
+id;altura;calle;direccion;Barrio;Ciudad;Departamento;Provincia;Pais
+1;3626; Avenida San Martín;3626,  Avenida San Martín; La Querencia; Posadas; Departamento Capital; Misiones; Argentina
+2;3102; Avenida Almirante Brown;3102,  Avenida Almirante Brown; Rocamora; Posadas; Departamento Capital; Misiones; Argentina
+3;2391; Avenida Comandante Buchardo;2391,  Avenida Comandante Buchardo; Vírgen de Itatí; Posadas; Departamento Capital; Misiones; Argentina
+4;3208; Avenida Jauretche;3208,  Avenida Jauretche; Chacra 135; Posadas; Departamento Capital; Misiones; Argentina
+5;1204; Morcillo;1204,  Morcillo; Tiro Federal; Posadas; Departamento Capital; Misiones; Argentina
+6;1821; Sarmiento;1821,  Sarmiento; Centro; Posadas; Departamento Capital; Misiones; Argentina
+7;2348; DIego Fernández Espiro;2348,  DIego Fernández Espiro; Villa del Parque; Comuna 11;Ciudad de Buenos Aires; C1416EXL; Argentina
+8;2743; Gavilán;2743,  Gavilán; La Paternal; Comuna 15;Ciudad de Buenos Aires; C1416ACS; Argentina
+9;3052; Gualeguaychú;3052,  Gualeguaychú; Villa Devoto; Comuna 11;Ciudad de Buenos Aires; C1417AOP; Argentina
+10;536; Avenida La Plata;536,  Avenida La Plata; Quilmes Este; Partido de Quilmes; Buenos Aires; Buenos Aires; Argentina
+11;444; Lisandro de la Torre;444,  Lisandro de la Torre; Quilmes Oeste; Partido de Quilmes; Buenos Aires; Buenos Aires; Argentina
+12;474; Olavarría;474,  Olavarría; Avellaneda; Buenos Aires; Buenos Aires; Argentina; Argentina
+13;2349; Ángel Justiniano Carranza;2349,  Ángel Justiniano Carranza; Palermo; Comuna 14; Autonomous City of Buenos Aires; C1425BHZ; Argentina
+14;1929; Montevideo;1929,  Montevideo; Martin; Distrito Centro; Rosario; Municipio de Rosario; Argentina
+15;3656; Zeballos;3656,  Zeballos; Remedios Escalada de San Martín; Rosario; Municipio de Rosario; Santa Fe; Argentina
+16;3686; Cerrito;3686,  Cerrito; Cinco Esquinas; Rosario; Municipio de Rosario; Santa Fe; Argentina
+17;1302; Gutenberg;1302,  Gutenberg; Remedios Escalada de San Martín; Rosario; Municipio de Rosario; Santa Fe; Argentina
